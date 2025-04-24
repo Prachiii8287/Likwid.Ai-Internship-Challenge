@@ -1,0 +1,10 @@
+
+### requirements.txt
+Flask
+flask-cors
+openpyxl
+pandas
+gspread
+oauth2client
+gunicorn
+sqlite3

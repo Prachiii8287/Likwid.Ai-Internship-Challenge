@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "starlit-cocoa-457709-f9",
+  "private_key_id": "45cfdbe3d5e012d1f68f5773f0bf4c61fe7cc5ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSpP2m3yU0sM7e\nl6hlC4oDwPSvgpfD0qAD24/dUjulxbw7krlIH7b4VWNhwhAxSLapboAO6o2szbWP\nYZEwxpE8Q958PgoC8JsG/+XukdpxdA91RM8ySSvjFd1YCuTWRigxlUZ2q/ZWaug2\nZn4xiAb8WPLV1kIaM87LXWC6MU7nr+e+Zz63dFIAtaorU7goUqnIf0QDoyUaKxd0\n2hfcJSRPRFLZ/IO/Paqip+1fK5BQ7pK9UXcdpUrE6Plj4Nrbo+Xb/w3lJyuUOSKx\nO4QgY/LJj6AElmzBEcsfaH1otAO9tguqQG6sBzlm5dEM9wkdyLz9WwXcmYz+3ugF\nDtB2OM3tAgMBAAECggEAOI5L/E3Vc3w1TtZxRBABEljwWV862Dzo8aA11DqMAUpB\n68zNKmw5eBuU/15XcqQPRxaAE4EuYMMqiECt9uaZgBDI35rYnUl0lkCGv7Mxb1y1\n+cprxxiWS/ZG46ipIE7d49IshRhOn408o76JC0t2dLJ9IKTSQq6+SyPbIKK0iMfY\n3jA0Q2nUSRBcrwqLHVhvu50KQ1ndPrqZSCmvX8xCuSRKqXm8SXWnB+hWOGFWX2Wk\nVsjGUKJ87Pwdx9JgyYXjiD7ve9IRsHpxQlofF0kn/vaWM+ZxiiNLIX0J6UeEzL3G\nP7npL5oiAf4a9ZdZYQVPFvUZfYWVDLuCEYPQB+DeEQKBgQD7WNiLMHOcWgaDECYW\n7EUuyErQprQ1q06sptPLwAnngOPLD9+uzc0qCOL7U/ai9G4M7Fh7CgTC+V8jd3FL\nRo8l58JaDg7dXAfZA1Ghu2GLsHQdy8V2PTTWaykkw12gaKQZrFfwcaABOiPCrvXm\nHGiLRBP1cn2ZJMkRAq9gIpcouwKBgQDWi0CRX1dssMz7PFxUPoDdlR1gywlY37QW\nf4jV5OJ17uwkqFqNFX3/GA/PwaeW7lavL9B3BbTvKDpb8pommZTSXu5RVYe6Il4S\nnYL5ej86HI/D8jddgwlIM93g2MLVVSYnVbjgUq4xp7j2vpMa2kmr0CU/DHyiotmg\nHdBBqKQtdwKBgBoOadR0H2gUBRzNLcWulLV22hqrTX9K1Qsc+FPlAqHXQMYqTRwI\nBb7X0QARAj5+bHI2hi2rKjc0NuKsXThahjh9wC4pyuyzv7SFnY7QqBodHsx/9WZ+\njd20mj1Pa4NXlbt7nFo2zUmTR2XFUYSbaVMWqaMGTXL010tGJfwnWdhFAoGBAKec\nItVvpt1DQuEERx2JtyNlW45DEQpdulPZTw3LwyBfiB0baaLPJ6AjLDcjE8rWaOJ0\neGiEDNbKls0+uy9szNeNUqI4L9E7CEOCytAcsUi1B5wNnzNvK9E8tBr1PUFtRGF2\nlvipn20rm1UpjcNsxiF0e6TGHJjyoRJ2OD0TgzABAoGBANqENXj9YjeaFILm9Lm5\nioSs4sDGv3zdljg7an+Zth5zaRv629PmBngulaXDZQcvRzV3aEfV5pQuxmTpd1v1\nOjGkIgZUsgYej7LYhqPpJRcPPOEOn4Qpaj2i6LIbkyQm8ul2ijMytIq1VZi+bpey\ninnFHHobZVlBXTmFpS+TWJCn\n-----END PRIVATE KEY-----\n",
+  "client_email": "project1@starlit-cocoa-457709-f9.iam.gserviceaccount.com",
+  "client_id": "104625744532022326973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project1%40starlit-cocoa-457709-f9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
